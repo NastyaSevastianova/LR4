@@ -1,0 +1,36 @@
+Process: 8520	  State: WAITING  		  Time: 5952703  
+Process: 8520	  State: WRITING page 0	  Time: 5952703  
+Process: 8520	  State: RELEASED  		  Time: 5953250  
+
+Process: 8520	  State: WAITING  		  Time: 5953250  
+Process: 8520	  State: WRITING page 0	  Time: 5953765  
+Process: 8520	  State: RELEASED  		  Time: 5954828  
+
+Process: 8520	  State: WAITING  		  Time: 5954828  
+Process: 8520	  State: WRITING page 0	  Time: 5955906  
+Process: 8520	  State: RELEASED  		  Time: 5957328  
+
+Process: 8520	  State: WAITING  		  Time: 5957328  
+Process: 8520	  State: WRITING page 0	  Time: 5958750  
+Process: 8520	  State: RELEASED  		  Time: 5959578  
+
+Process: 8520	  State: WAITING  		  Time: 5959578  
+Process: 8520	  State: WRITING page 0	  Time: 5960390  
+Process: 8520	  State: RELEASED  		  Time: 5961062  
+
+Process: 8520	  State: WAITING  		  Time: 5961062  
+Process: 8520	  State: WRITING page 0	  Time: 5961734  
+Process: 8520	  State: RELEASED  		  Time: 5962593  
+
+Process: 8520	  State: WAITING  		  Time: 5962593  
+Process: 8520	  State: WRITING page 0	  Time: 5963453  
+Process: 8520	  State: RELEASED  		  Time: 5964390  
+
+Process: 8520	  State: WAITING  		  Time: 5964390  
+Process: 8520	  State: WRITING page 0	  Time: 5965312  
+Process: 8520	  State: RELEASED  		  Time: 5965968  
+
+Process: 8520	  State: WAITING  		  Time: 5965968  
+Process: 8520	  State: WRITING page 0	  Time: 5966640  
+Process: 8520	  State: RELEASED  		  Time: 5967828  
+

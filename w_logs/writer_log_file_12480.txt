@@ -1,0 +1,36 @@
+Process: 12480	  State: WAITING  		  Time: 5952812  
+Process: 12480	  State: WRITING page 5	  Time: 5952812  
+Process: 12480	  State: RELEASED  		  Time: 5953328  
+
+Process: 12480	  State: WAITING  		  Time: 5953328  
+Process: 12480	  State: WRITING page 4	  Time: 5953843  
+Process: 12480	  State: RELEASED  		  Time: 5954921  
+
+Process: 12480	  State: WAITING  		  Time: 5954921  
+Process: 12480	  State: WRITING page 6	  Time: 5955984  
+Process: 12480	  State: RELEASED  		  Time: 5957406  
+
+Process: 12480	  State: WAITING  		  Time: 5957406  
+Process: 12480	  State: WRITING page 7	  Time: 5958828  
+Process: 12480	  State: RELEASED  		  Time: 5959656  
+
+Process: 12480	  State: WAITING  		  Time: 5959656  
+Process: 12480	  State: WRITING page 4	  Time: 5960468  
+Process: 12480	  State: RELEASED  		  Time: 5961140  
+
+Process: 12480	  State: WAITING  		  Time: 5961140  
+Process: 12480	  State: WRITING page 7	  Time: 5961812  
+Process: 12480	  State: RELEASED  		  Time: 5962671  
+
+Process: 12480	  State: WAITING  		  Time: 5962671  
+Process: 12480	  State: WRITING page 4	  Time: 5963531  
+Process: 12480	  State: RELEASED  		  Time: 5964468  
+
+Process: 12480	  State: WAITING  		  Time: 5964468  
+Process: 12480	  State: WRITING page 6	  Time: 5965390  
+Process: 12480	  State: RELEASED  		  Time: 5966062  
+
+Process: 12480	  State: WAITING  		  Time: 5966062  
+Process: 12480	  State: WRITING page 7	  Time: 5966718  
+Process: 12480	  State: RELEASED  		  Time: 5967921  
+
