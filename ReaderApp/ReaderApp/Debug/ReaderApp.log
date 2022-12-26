@@ -1,0 +1,3 @@
+﻿  ReaderApp.cpp
+c:\users\nikit\onedrive\рабочий стол\lr4\apps\readerapp\readerapp\readerapp.cpp(52): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ReaderApp.vcxproj -> C:\Users\nikit\OneDrive\Рабочий стол\LR4\Apps\ReaderApp\Debug\ReaderApp.exe

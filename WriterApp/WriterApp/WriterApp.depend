@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672060871 source:c:\users\nikit\onedrive\Рабочий стол\lr4\apps\writerapp\writerapp\writerapp.cpp
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<sysinfoapi.h>
+	<string>
+	<time.h>
+
